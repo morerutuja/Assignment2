@@ -1,0 +1,8 @@
+# Environment variables
+.env
+
+# Python virtual environments
+include/
+lib/
+bin/
+pyvenv.cfg

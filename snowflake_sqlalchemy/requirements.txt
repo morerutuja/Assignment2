@@ -1,0 +1,4 @@
+sqlalchemy
+snowflake-sqlalchemy
+python-dotenv
+pandas

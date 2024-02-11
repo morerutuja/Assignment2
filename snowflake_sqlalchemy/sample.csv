@@ -1,0 +1,5 @@
+Name_of_the_Topic,Year,Level,Introduction_Summary,Learning_Outcomes,Link_to_the_Summary_Page,Link_to_the_PDF_File
+Data Science Basics,2022,Beginner,An overview of data science principles and practices.,Understand the fundamentals of data science- including basic data analysis and visualization.,Link to Summary,https://people.smp.uq.edu.au/DirkKroese/DSML/DSML.pdf
+Machine Learning Intro,2023,Intermediate,Introduction to machine learning and its applications.,Gain insights into machine learning models and their real-world applications.,Link to Summary,https://alex.smola.org/drafts/thebook.pdf
+Deep Learning Fundamentals,2024,Advanced,Exploring the core concepts of deep learning.,Learn about neural networks- deep learning architectures- and their implementations.,Link to Summary,https://www.oreilly.com/ai/free/files/fundamentals-of-deep-learning-sampler.pdf
+Natural Language Processing,2025,Intermediate,An introduction to NLP and its significance in understanding human language.,Understand the basics of NLP- including text processing and sentiment analysis.,Link to Summary,https://cseweb.ucsd.edu/~nnakashole/teaching/eisenstein-nov18.pdf
